@@ -1,0 +1,21 @@
+
+shashpec
+model_path = "./results/cramed/shaspec/best_model_of_dataset_CREMAD_Normal_dco_0.02_dao_1.0_unimodal_2.0_epoch_81_acc_0.603494623655914.pth"
+659.86 47.17 66.80
+
+
+
+distillation
+
+model_path = "./results/cramed/mmanet/best_model_of_dataset_CREMAD_Normal_alpha_0.001_pe_0_optimizer_sgd_modulate_starts_0_ends_50_epoch_88_acc_0.5981182795698925.pth"
+
+59 44 65
+
+58 47 67
+
+
+PME
+
+58.87 55.10 70.10
+
+
