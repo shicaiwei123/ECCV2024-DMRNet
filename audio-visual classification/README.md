@@ -28,7 +28,7 @@ As the original CREMA-D dataset has provided the original audio and video files,
 Note that, the relevant path/dir should be changed according your own env.  
 
 
-### root
+### data path
 
 you should move the download dataset into the folder data
 
