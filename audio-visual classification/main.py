@@ -366,6 +366,20 @@ def main():
                                                                                                              scheduler)
                 acc, acc_a, acc_v = valid(args, model, device, test_dataloader)
 
+
+
+            std_a_sum += std_a
+            std_v_sum += std_v
+
+            if epoch == 5:
+                if std_a_sum > std_v_sum:
+                    args.weak_modality = 'audio'
+                else:
+                    args.weak_modality = 'visual'
+
+                print("weak:",args.weak_modality)
+
+
             if acc > best_acc and epoch:
                 best_acc = float(acc)
 
@@ -393,17 +407,6 @@ def main():
                               'scheduler': scheduler.state_dict()}
 
                 save_dir = os.path.join(args.ckpt_path, model_name)
-
-                std_a_sum += std_a
-                std_v_sum += std_v
-
-                if epoch == 5:
-                    if std_a_sum > std_v_sum:
-                        args.weak_modality = 'audio'
-                    else:
-                        args.weak_modality = 'visual'
-
-                    print("weak:",args.weak_modality)
 
                 torch.save(saved_dict, save_dir)
                 print('The best model has been saved at {}.'.format(save_dir))

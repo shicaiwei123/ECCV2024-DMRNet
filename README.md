@@ -11,6 +11,7 @@ It's a general framework to address the issue of multimodal learning with incomp
 + CUDA Version: 12.3
 + PyTorch 1.12.1
 + python 3.8.6
++ note: Some researchers have found that the hyperparameter $\beta$ for PME can significantly impact the results. If your equipment and software are different, you may need to adjust the hyperparameters accordingly.
 
 ## Audio-Visual task
 see [audio-visual classification](audio-visual%20classification)
