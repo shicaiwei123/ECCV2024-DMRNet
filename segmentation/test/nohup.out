@@ -1,0 +1,413 @@
+2023-03-03 10:42:41.444567: E tensorflow/stream_executor/cuda/cuda_blas.cc:2981] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2023-03-03 10:42:42.873163: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/icml/anaconda3/envs/pytorch1.10/lib/python3.8/site-packages/cv2/../../lib64:/usr/local/cuda/lib64:
+2023-03-03 10:42:42.873286: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/icml/anaconda3/envs/pytorch1.10/lib/python3.8/site-packages/cv2/../../lib64:/usr/local/cuda/lib64:
+2023-03-03 10:42:42.873303: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+280 280 280 280 280
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_280.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_280.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_280.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_280.pth'
+3
+281 281 281 281 281
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_281.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_281.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_281.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_281.pth'
+3
+282 282 282 282 282
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_282.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_282.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_282.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_282.pth'
+3
+283 283 283 283 283
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_283.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_283.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_283.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_283.pth'
+3
+284 284 284 284 284
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_284.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_284.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_284.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_284.pth'
+3
+285 285 285 285 285
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_285.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_285.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_285.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_285.pth'
+3
+286 286 286 286 286
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_286.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_286.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_286.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_286.pth'
+3
+287 287 287 287 287
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_287.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_287.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_287.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_287.pth'
+3
+288 288 288 288 288
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_288.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_288.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_288.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_288.pth'
+3
+289 289 289 289 289
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_289.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_289.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_289.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_289.pth'
+3
+290 290 290 290 290
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_290.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_290.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_290.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_290.pth'
+3
+291 291 291 291 291
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_291.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_291.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_291.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_291.pth'
+3
+292 292 292 292 292
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_292.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_292.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_292.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_292.pth'
+3
+293 293 293 293 293
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_293.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_293.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_293.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_293.pth'
+3
+294 294 294 294 294
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_294.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_294.pth'
+3
+/home/icml/shicaiwei/ESANet-main_dul/test/../src/build_model.py:489: UserWarning: Argument --channels_decoder is ignored when --decoder_chanels_mode decreasing is set.
+  warnings.warn('Argument --channels_decoder is ignored when '
+/home/icml/shicaiwei/ESANet-main_dul/test/../src/models/model.py:652: UserWarning: Parameter encoder_block is ignored for ResNet50. ResNet50 always uses Bottleneck
+  warnings.warn('Parameter encoder_block is ignored for ResNet50. '
+/home/icml/shicaiwei/ESANet-main_dul/test/../src/models/model.py:756: UserWarning: for the context module the learned upsampling is not possible as the feature maps are not upscaled by the factor 2. We will use nearest neighbor instead.
+  warnings.warn('for the context module the learned upsampling is '
+/home/icml/shicaiwei/ESANet-main_dul/test/../src/models/resnet.py:101: UserWarning: parameters groups, base_width and norm_layer are ignored in NonBottleneck1D
+  warnings.warn('parameters groups, base_width and norm_layer are '
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_294.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_294.pth'
+3
+295 295 295 295 295
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_295.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_295.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_295.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_295.pth'
+3
+296 296 296 296 296
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_296.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_296.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_296.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_296.pth'
+3
+297 297 297 297 297
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_297.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_297.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_297.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_297.pth'
+3
+298 298 298 298 298
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_298.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_298.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_298.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_298.pth'
+3
+299 299 299 299 299
+/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_299.pth
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_299.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_299.pth'
+3
+Using /home/icml/shicaiwei/ESANet-main_dul/src/datasets/nyuv2/weighting_median_frequency_1+40_train.pickle as class weighting
+Loaded ResNet50 pretrained on ImageNet
+Loaded ResNet50 pretrained on ImageNet
+Device: cuda:0
+[Errno 2] No such file or directory: '/home/ssd/results/sunrgbd/checkpoints_02_03_2023-16_42_23-276432/ckpt_epoch_299.pth'
+3
+python: can't open file 'train_missing_dul_auxi.py': [Errno 2] No such file or directory
